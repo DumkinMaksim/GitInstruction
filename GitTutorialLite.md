@@ -13,3 +13,8 @@
 * git commit -m "name of the change" **(make changes)**
 
 * git checkout namecommit **(transition to changes)**
+
+
+##Download ##
+
+* For Git click here [https://git-scm.com/downloads](https://git-scm.com/downloads)

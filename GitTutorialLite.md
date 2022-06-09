@@ -20,4 +20,4 @@
 * For Git click here [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
 
-![cat](D:\GIT\cat1.jpg)
+![cat](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotikov-17.jpg "Cat")

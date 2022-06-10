@@ -19,6 +19,8 @@
 
 * For Git click here [https://git-scm.com/downloads](https://git-scm.com/downloads)
 
+![git functions](git1.png)
+
 
 ![cat](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotikov-17.jpg "Cat")
 

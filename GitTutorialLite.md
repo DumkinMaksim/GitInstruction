@@ -15,6 +15,19 @@
 * git checkout namecommit **(transition to changes)**
 
 ### *Commands for working with* __branches__ ###
+
++ git branch *when called, the location in the branch is displayed* (*)
+
++ git branch BranchName *creating a BranchName branch*
+
++ git merge BranchName *merging BranchName into an active branch*
+
++ git diff *show the difference between versions*
+
++  git log *display all changes in commit*
+
++ git log --graf *allows you to display commit in graphical form*
+
 ### Download ###
 
 * For Git click here [https://git-scm.com/downloads](https://git-scm.com/downloads)

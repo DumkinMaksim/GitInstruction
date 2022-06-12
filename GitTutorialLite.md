@@ -23,4 +23,6 @@
 
  ## about quotes
  
-> The Markdown language uses the "more" (">") sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph. Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (">") are used to mark them. Quotes in Markdown can contain all kinds of markup elements.
+ The Markdown language uses the "more" (">") sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph. Quotes in Markdown can contain all kinds of markup elements.
+
+Tables more

@@ -5,6 +5,7 @@
 **Functional working of repozitiry**
 
 **Resize for commit**
++ Create a folder for working with a repository for git
 
 ### Main commands Git
 

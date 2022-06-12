@@ -1,5 +1,6 @@
 # Руководство по работе с Гитом
 
+<<<<<<< HEAD
 ## Basic functional Git ##
 
 **Functional working of repozitiry**
@@ -10,6 +11,9 @@
 
 **Resize for commit**
 + Create a folder for working with a repository for git
+=======
+>For git to work correctly after writing the text, when going to the terminal, press ctrl+s
+>>>>>>> OtherList
 
 ### Main commands Git
 

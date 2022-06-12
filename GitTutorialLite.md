@@ -14,8 +14,8 @@
 
 * git checkout namecommit **(transition to changes)**
 
-
-##Download ##
+### *Commands for working with* __branches__ ###
+### Download ###
 
 * For Git click here [https://git-scm.com/downloads](https://git-scm.com/downloads)
 

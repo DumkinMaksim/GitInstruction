@@ -4,6 +4,7 @@
 
 **Functional working of repozitiry**
 
+> Create a folder for working with a repository for git
 
 >>To work with the repository, you need to open the folder you will be working with and agree with the message that you trust this author
 

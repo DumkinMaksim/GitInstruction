@@ -4,6 +4,10 @@
 
 **Functional working of repozitiry**
 
+> Create a folder for working with a repository for git
+
+>>To work with the repository, you need to open the folder you will be working with and agree with the message that you trust this author
+
 **Resize for commit**
 
 ### Main commands Git
@@ -41,3 +45,4 @@
  ## about quotes
  
 > The Markdown language uses the "more" (">") sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph. Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (">") are used to mark them. Quotes in Markdown can contain all kinds of markup elements.
+

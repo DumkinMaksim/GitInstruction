@@ -1,10 +1,6 @@
 # Руководство по работе с Гитом
 
-## Basic functional Git ##
-
-**Functional working of repozitiry**
-
-**Resize for commit**
+>For git to work correctly after writing the text, when going to the terminal, press ctrl+s
 
 ### Main commands Git
 

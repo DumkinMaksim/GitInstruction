@@ -1,6 +1,5 @@
 # Руководство по работе с Гитом
 
-<<<<<<< HEAD
 ## Basic functional Git ##
 
 **Functional working of repozitiry**
@@ -11,11 +10,8 @@
 
 **Resize for commit**
 + Create a folder for working with a repository for git
-=======
->For git to work correctly after writing the text, when going to the terminal, press ctrl+s
->>>>>>> OtherList
 
-### Main commands Git
+### Main commands 
 
 * git add FileName **(add changes)**
 
@@ -43,11 +39,9 @@
 
 ![git functions](git1.png)
 
+Tables
 
-![cat](https://proprikol.ru/wp-content/uploads/2020/08/krasivye-kartinki-kotikov-17.jpg "Cat")
-
-
- ## about quotes
+## about quotes
  
 > The Markdown language uses the "more" (">") sign to indicate quotations. It can be inserted both before each line of the quotation, and only before the first line of the paragraph. Also, the Markdown syntax allows you to create nested quotes (quotes inside quotes). Additional levels of citation marks (">") are used to mark them. Quotes in Markdown can contain all kinds of markup elements.
 

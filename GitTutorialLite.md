@@ -7,7 +7,7 @@
 * git add FileName **(add changes)**
 
 * git commit -m "name of the change" **(make changes)**
-
+сд
 * git checkout namecommit **(transition to changes)**
 
 ### *Commands for working with* __branches__ ###
